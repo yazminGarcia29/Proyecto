@@ -1,0 +1,45 @@
+C:\Users\felii\Desktop\ing software\Proyecto mamaflex\Proyecto mamaflex\bin\Debug\Proyecto mamaflex.exe.config
+C:\Users\felii\Desktop\ing software\Proyecto mamaflex\Proyecto mamaflex\bin\Debug\Proyecto mamaflex.exe
+C:\Users\felii\Desktop\ing software\Proyecto mamaflex\Proyecto mamaflex\bin\Debug\Proyecto mamaflex.pdb
+C:\Users\felii\Desktop\ing software\Proyecto mamaflex\Proyecto mamaflex\bin\Debug\Proyecto mamaflex.xml
+C:\Users\felii\Desktop\ing software\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto mamaflex.vbproj.AssemblyReference.cache
+C:\Users\felii\Desktop\ing software\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto_mamaflex.Login.resources
+C:\Users\felii\Desktop\ing software\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto_mamaflex.Resources.resources
+C:\Users\felii\Desktop\ing software\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto mamaflex.vbproj.GenerateResource.cache
+C:\Users\felii\Desktop\ing software\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto mamaflex.vbproj.CoreCompileInputs.cache
+C:\Users\felii\Desktop\ing software\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto mamaflex.exe
+C:\Users\felii\Desktop\ing software\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto mamaflex.xml
+C:\Users\felii\Desktop\ing software\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto mamaflex.pdb
+C:\Users\felii\Desktop\ing software\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto_mamaflex.Form1.resources
+C:\Users\felii\Desktop\ing software\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto_mamaflex.Usuarios.resources
+C:\Users\HP\Downloads\Proyecto mamaflex\Proyecto mamaflex\bin\Debug\Proyecto mamaflex.exe.config
+C:\Users\HP\Downloads\Proyecto mamaflex\Proyecto mamaflex\bin\Debug\Proyecto mamaflex.exe
+C:\Users\HP\Downloads\Proyecto mamaflex\Proyecto mamaflex\bin\Debug\Proyecto mamaflex.pdb
+C:\Users\HP\Downloads\Proyecto mamaflex\Proyecto mamaflex\bin\Debug\Proyecto mamaflex.xml
+C:\Users\HP\Downloads\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto mamaflex.vbproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto_mamaflex.Login.resources
+C:\Users\HP\Downloads\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto_mamaflex.Resources.resources
+C:\Users\HP\Downloads\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto_mamaflex.Usuarios.resources
+C:\Users\HP\Downloads\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto mamaflex.vbproj.GenerateResource.cache
+C:\Users\HP\Downloads\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto mamaflex.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto mamaflex.exe
+C:\Users\HP\Downloads\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto mamaflex.xml
+C:\Users\HP\Downloads\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto mamaflex.pdb
+C:\Users\HP\Downloads\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto_mamaflex.MenuAdmi.resources
+C:\Users\HP\Downloads\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto_mamaflex.Form2.resources
+C:\Users\HP\Downloads\Proyecto mamaflex\Proyecto mamaflex\bin\Debug\Oracle.DataAccess.dll
+C:\Users\HP\Downloads\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto_mamaflex.Categorias.resources
+C:\Users\HP\Downloads\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto mamaflex.vbproj.CopyComplete
+C:\Users\HP\Downloads\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto_mamaflex.Productos.resources
+C:\Users\HP\Downloads\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto_mamaflex.Clientes.resources
+C:\Users\HP\Downloads\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto_mamaflex.ListadoCategorias.resources
+C:\Users\HP\Downloads\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto_mamaflex.ListadoProductos.resources
+C:\Users\HP\Downloads\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto_mamaflex.Inventario.resources
+C:\Users\HP\Downloads\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto_mamaflex.LISTADOCLIENTES.resources
+C:\Users\HP\Downloads\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto_mamaflex.Ventas.resources
+C:\Users\HP\Downloads\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto_mamaflex.ConceptoVenta.resources
+C:\Users\HP\Downloads\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto_mamaflex.ReporteVentas.resources
+C:\Users\HP\Downloads\Proyecto mamaflex\Proyecto mamaflex\bin\Debug\Proyecto mamaflex.exe.manifest
+C:\Users\HP\Downloads\Proyecto mamaflex\Proyecto mamaflex\bin\Debug\Proyecto mamaflex.application
+C:\Users\HP\Downloads\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto mamaflex.exe.manifest
+C:\Users\HP\Downloads\Proyecto mamaflex\Proyecto mamaflex\obj\Debug\Proyecto mamaflex.application
